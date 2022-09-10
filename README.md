@@ -1,2 +1,2 @@
-# romantic-alexa
+# alexa
 ## Build an Artificial Assistant
